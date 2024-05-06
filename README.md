@@ -1,7 +1,9 @@
 <p align="center">
-  <img alt="coding" width="400" src="https://64.media.tumblr.com/35113af6b7b3b5d7ff71ca379eec5dc6/ff0f0d1cdbb141cb-83/s540x810/1eda6945b5db4958bc494e77de29a60337a0da1f.gif" >
+  <img alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ba60889-62e3-480b-b1a4-3b7f949fe0cb/df8khg3-a591e192-f287-4b3d-8f0e-66129f2a9d34.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiYTYwODg5LTYyZTMtNDgwYi1iMWE0LTNiN2Y5NDlmZTBjYlwvZGY4a2hnMy1hNTkxZTE5Mi1mMjg3LTRiM2QtOGYwZS02NjEyOWYyYTlkMzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QyPhiF7xAjWhSEoe_pFrZyd4jVcjpq5NrIT5Q4XAUwE">
+  
 </p>
-<h1 align="center">Hi 👋, I'm Russell Andrady</h1>
+
+<h1 align="center">Hi 👋, I'm Russell</h1>
 <h3 align="center">xᴛʀᴀᴄᴛ ᴩᴜʀᴇ ꜱᴀʟᴛ ꜰʀᴏᴍ ᴏᴄᴇᴀɴ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russellandrady&label=Profile%20views&color=0e75b6&style=flat" alt="russellandrady" /> </p>
