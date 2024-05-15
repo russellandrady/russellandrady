@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russellandrady&label=Profile%20views&color=0e75b6&style=flat" alt="russellandrady" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/russellandrady**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
